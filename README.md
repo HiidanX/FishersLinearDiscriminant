@@ -1,0 +1,2 @@
+# FishersLinearDiscriminant
+Fisher's Linear Discriminant Analysis(LDA) is a dimension reduction technique commonly used for supervised classification problems. The goal of LDA is to project the features in higher dimension space onto a lower dimensional space, such that samples from different distribution can be 'separated'. Through this project, we are going to learn the basic about Fisher's LDA, and to explore practical issues for a couple of datasets from applications.
