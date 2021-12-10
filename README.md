@@ -5,3 +5,4 @@ This project was prepared in the masters course "Linear Algebra and Learning fro
 This file inludes:
 - a summary of the project
 - the (Matlab) code for the LDA
+- two data sets used to perform the LDA
